@@ -1,0 +1,75 @@
+* {
+    font-family: "Lucida Console", monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#F9F5E3
+}
+
+.heading {
+    background-color: #F9EAD3;
+    text-align: center;
+    padding: 25px;
+}
+
+.button1,
+.button2 {
+    height: 50px;
+    width: 300px;
+    margin: 20px;
+    margin-left: 25px;
+    background-color: #F9EAD3;
+    font-weight: 500;
+    font-size: larger;
+    margin-bottom: 10px;
+    margin-right: 100%;
+    border-radius: 10px;
+    text-align: center;
+    border: 0px;
+}
+
+.link {
+    color: black;
+    background-color:#F9EAD3
+}
+
+.button2 {
+    width: 150px;
+}
+
+.desc1 {
+    background-color: #F9EAD3;
+    margin: auto;
+    border-radius: 15px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    text-align: center;
+    width: 800px;
+    height: 45px;font-size: 25px;
+}
+
+.text1 {
+    margin-left: 125px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.image {
+    border: 10px #F9EAD3;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container ol {
+    margin-right: 40px;
+}
+
+
+
+
